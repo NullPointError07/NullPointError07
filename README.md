@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Taukir Alam</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Redux**
 

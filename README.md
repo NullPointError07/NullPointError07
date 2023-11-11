@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Taukir Alam</h1>
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NestJs**
 
 - 💬 Ask me about **JavaScript, React**
 

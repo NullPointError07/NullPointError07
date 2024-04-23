@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD Taukir Alam</h1>
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, NodeJs**
 
 - 📫 How to reach me **taukir007alam@gmail.com**
 

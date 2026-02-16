@@ -31,7 +31,7 @@ const expertise = {
 Node.js • Express.js • NestJS • GraphQL
 
 **Data Layer**  
-MongoDB (Mongoose) • PostgreSQL (Sequelize) • Redis • Bull/BullMQ
+MongoDB (Mongoose) • PostgreSQL (Drizzle, Prisma) • Redis • Bull/BullMQ
 
 **Specialized Skills**
 - FFmpeg & media processing pipelines
